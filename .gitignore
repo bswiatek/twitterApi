@@ -1,0 +1,4 @@
+.twitter_php7_cred.json
+composer.lock
+vendor
+autoload.php
